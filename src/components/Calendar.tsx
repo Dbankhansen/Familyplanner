@@ -43,7 +43,7 @@ const Calendar: React.FC<CalendarProps> = ({ currentDate }) => {
       { member: 'Dad', event: 'Team Meeting', color: 'blue', icon: '💼' },
       { member: 'Emma', event: 'Dance Class', color: 'pink', icon: '💃' }
     ],
-    20: [
+    27: [
       { member: 'Mom', event: 'Dentist', color: 'purple', icon: '🦷' }
     ],
     25: [

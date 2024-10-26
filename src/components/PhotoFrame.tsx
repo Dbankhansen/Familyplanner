@@ -6,7 +6,7 @@ const PhotoFrame: React.FC = () => {
   const photos = [
     'https://images.unsplash.com/photo-1571172964276-91faaa704e1f?w=800&h=600&fit=crop',
     'https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop',
-    'https://images.unsplash.com/photo-1623411235843-89c5f3f6b86b?w=800&h=600&fit=crop'
+    'https://picsum.photos/800/600?random=1'
   ];
 
   useEffect(() => {
